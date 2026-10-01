@@ -1,0 +1,14 @@
+C:\Users\aidyn\Desktop\IFP_2\bin\Debug\net8.0\IFP_2.exe
+C:\Users\aidyn\Desktop\IFP_2\bin\Debug\net8.0\IFP_2.deps.json
+C:\Users\aidyn\Desktop\IFP_2\bin\Debug\net8.0\IFP_2.runtimeconfig.json
+C:\Users\aidyn\Desktop\IFP_2\bin\Debug\net8.0\IFP_2.dll
+C:\Users\aidyn\Desktop\IFP_2\bin\Debug\net8.0\IFP_2.pdb
+C:\Users\aidyn\Desktop\IFP_2\obj\Debug\net8.0\IFP_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aidyn\Desktop\IFP_2\obj\Debug\net8.0\IFP_2.AssemblyInfoInputs.cache
+C:\Users\aidyn\Desktop\IFP_2\obj\Debug\net8.0\IFP_2.AssemblyInfo.cs
+C:\Users\aidyn\Desktop\IFP_2\obj\Debug\net8.0\IFP_2.csproj.CoreCompileInputs.cache
+C:\Users\aidyn\Desktop\IFP_2\obj\Debug\net8.0\IFP_2.dll
+C:\Users\aidyn\Desktop\IFP_2\obj\Debug\net8.0\refint\IFP_2.dll
+C:\Users\aidyn\Desktop\IFP_2\obj\Debug\net8.0\IFP_2.pdb
+C:\Users\aidyn\Desktop\IFP_2\obj\Debug\net8.0\IFP_2.genruntimeconfig.cache
+C:\Users\aidyn\Desktop\IFP_2\obj\Debug\net8.0\ref\IFP_2.dll
