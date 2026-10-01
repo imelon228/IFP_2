@@ -12,3 +12,4 @@ C:\Users\aidyn\Desktop\IFP_2\obj\Debug\net8.0\refint\IFP_2.dll
 C:\Users\aidyn\Desktop\IFP_2\obj\Debug\net8.0\IFP_2.pdb
 C:\Users\aidyn\Desktop\IFP_2\obj\Debug\net8.0\IFP_2.genruntimeconfig.cache
 C:\Users\aidyn\Desktop\IFP_2\obj\Debug\net8.0\ref\IFP_2.dll
+C:\Users\aidyn\Desktop\IFP_2\obj\Debug\net8.0\IFP_2.sourcelink.json

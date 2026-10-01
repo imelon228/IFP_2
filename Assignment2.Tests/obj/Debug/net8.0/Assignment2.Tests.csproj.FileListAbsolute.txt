@@ -101,3 +101,4 @@ C:\Users\aidyn\Desktop\IFP_2\Assignment2.Tests\obj\Debug\net8.0\refint\Assignmen
 C:\Users\aidyn\Desktop\IFP_2\Assignment2.Tests\obj\Debug\net8.0\Assignment2.Tests.pdb
 C:\Users\aidyn\Desktop\IFP_2\Assignment2.Tests\obj\Debug\net8.0\Assignment2.Tests.genruntimeconfig.cache
 C:\Users\aidyn\Desktop\IFP_2\Assignment2.Tests\obj\Debug\net8.0\ref\Assignment2.Tests.dll
+C:\Users\aidyn\Desktop\IFP_2\Assignment2.Tests\obj\Debug\net8.0\Assignment2.Tests.sourcelink.json
