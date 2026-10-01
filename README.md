@@ -21,3 +21,9 @@ Build the solution:
 
 ```bash
 dotnet build
+```
+
+Conclusion
+
+The assignment demonstrates functional programming concepts in C#, including immutable data, pure functions, pattern matching, validation, controlled mutation, and deterministic parallel processing.
+The final implementation builds successfully on .NET 8, and all 22 automated tests pass.
